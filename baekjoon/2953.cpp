@@ -18,7 +18,7 @@ int main()
         if(sum>max)
         {
             max=sum;
-            count=i+1;       
+            count=i+1;
         }
     }
     cout<<count<<" "<<max;
