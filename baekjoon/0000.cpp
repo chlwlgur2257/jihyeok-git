@@ -19,8 +19,6 @@ int main() {
         {
             
             if (a[i] == 0) { ans += i + 'A'; }
-            
-            
         }
         cout << ans << '\n';
     }
