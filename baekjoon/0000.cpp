@@ -6,6 +6,7 @@ int t, ans, a[26];
 int main() {
     cin >> t;
     while (t--)
+    
     {
         
         ans = 0;
