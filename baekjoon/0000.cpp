@@ -10,6 +10,7 @@ int main() {
     {
         
         ans = 0;
+        
         for (int i = 0; i < 26; i++)
             a[i] = 0;
         cin >> k;
