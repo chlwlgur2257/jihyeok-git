@@ -12,6 +12,7 @@ int main() {
         for (int i = 0; i < 26; i++)
             a[i] = 0;
         cin >> k;
+        
         for (int i = 0; i < k.size(); i++)
             a[k[i] - 'A'] = 1;
 
