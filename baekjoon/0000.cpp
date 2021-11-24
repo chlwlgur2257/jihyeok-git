@@ -7,6 +7,7 @@ int main() {
     cin >> t;
     while (t--)
     {
+        
         ans = 0;
         
         for (int i = 0; i < 26; i++)
