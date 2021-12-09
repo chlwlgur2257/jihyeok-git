@@ -7,7 +7,6 @@ int main()
 
     for(int i=1;i<=sum; i++)
     {
-
         printf("i +");
     }
 
@@ -15,6 +14,5 @@ int main()
     {
         printf("sum +=i");
     }
-    
     printf("Resulr : %d\n", sum);
 }
