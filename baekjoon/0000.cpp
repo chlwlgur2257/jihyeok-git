@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+    
     int num,sum=0;
     printf("enter a naum ver : ");
     scanf("%d", &sum);
